@@ -3,6 +3,9 @@ import java.util.ArrayList;
 public class PruebaArrays {
 
     public static void main(String[] args) {
+        /**
+         * REALIZACIÓN DE PRUEBAS CON ARRAYLIST
+         */
         ArrayList<Integer> lista = new ArrayList<>();
 
         // Podemos añadir cualquier elemento con diferente tipo de dato
